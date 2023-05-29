@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="140" height="140" viewBox="0 0 140 140">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="37.715" height="33" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="_Icon_Сolor" data-name="🎨 Icon Сolor" d="M2.357,18.857H30.325L21.761,29.134a2.357,2.357,0,0,0,3.623,3.017L37.17,18.009a2.206,2.206,0,0,0,.205-.363,2.233,2.233,0,0,0,.167-.292,2.323,2.323,0,0,0,.17-.844s0-.007,0-.009,0-.007,0-.009a2.323,2.323,0,0,0-.17-.844,2.233,2.233,0,0,0-.167-.292,2.206,2.206,0,0,0-.205-.363L25.384.849a2.357,2.357,0,0,0-3.623,3.017l8.564,10.277H2.357a2.357,2.357,0,1,0,0,4.714" transform="translate(0 0)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Group_407" data-name="Group 407" transform="translate(-141 -3555)">
+    <path id="Path_68" data-name="Path 68" d="M62,0A62,62,0,1,1,0,62,62,62,0,0,1,62,0Z" transform="translate(149 3563)" fill="#17ac9d"/>
+    <g id="Ellipse_14" data-name="Ellipse 14" transform="translate(141 3555)" fill="none" stroke="#283e51" stroke-width="1" opacity="0.2">
+      <circle cx="70" cy="70" r="70" stroke="none"/>
+      <circle cx="70" cy="70" r="69.5" fill="none"/>
+    </g>
+    <g id="arrow-right" transform="translate(192.285 3608.5)" clip-path="url(#clip-path)">
+      <path id="_Icon_Сolor-2" data-name="🎨 Icon Сolor" d="M2.357,18.857H30.325L21.761,29.134a2.357,2.357,0,0,0,3.623,3.017L37.17,18.009a2.206,2.206,0,0,0,.205-.363,2.233,2.233,0,0,0,.167-.292,2.323,2.323,0,0,0,.17-.844s0-.007,0-.009,0-.007,0-.009a2.323,2.323,0,0,0-.17-.844,2.233,2.233,0,0,0-.167-.292,2.206,2.206,0,0,0-.205-.363L25.384.849a2.357,2.357,0,0,0-3.623,3.017l8.564,10.277H2.357a2.357,2.357,0,1,0,0,4.714" transform="translate(0 0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
